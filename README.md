@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-- Alexandre Santos Diniz
-- Sistemas de Informação<br>
-- Santa Catarina 🇧🇷<br>
-- 21 anos<br>
+-🧑‍💻Alexandre Santos Diniz
+-💻Sistemas de Informação<br>
+-🏡 Santa Catarina 🇧🇷<br>
+-📅 21 anos<br>
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
