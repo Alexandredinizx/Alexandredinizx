@@ -4,7 +4,7 @@
   </a>
 </h1>
 
--🧑‍💻Alexandre Santos Diniz
+-🧑‍💻Alexandre Santos Diniz<br>
 -💻Sistemas de Informação<br>
 -🏡 Santa Catarina 🇧🇷<br>
 -📅 21 anos<br>
