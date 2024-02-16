@@ -26,19 +26,6 @@
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-
-
-<a href="https://www.twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-  
-
-<a href="https://www.discord.com">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-</div>
-<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&center=true&vcenter=true&pause=1000&random=false&width=435&height=50&lines=Ferramentas" alt="Typing SVG"/>
